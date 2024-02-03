@@ -10,8 +10,7 @@
 - 🔭 I’m currently working on a full-stack project which is a MEVN stack web application. I am also providing support for an e-commerce platform.<br>
 - 🌱 I’m currently learning WordPress, some PHP and Spanish in my spare time.<br>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevser-o-128b96195/)
-<!---- ⚡ Fun fact: 
--->
+- ✨ My Portfolio : https://my-portfolio-xj1y.onrender.com/
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
